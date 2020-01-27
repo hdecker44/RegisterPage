@@ -1,0 +1,30 @@
+body{
+    background-color: skyblue;
+}
+form{
+    background-color: white;
+    text-align: center;
+    width: 250px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.sub{
+    background-color: rgb(66,133,244);
+    color: white;
+    width: 100px;
+    
+}
+.header{
+    background-color: white;
+    text-align: right; 
+    height: auto; 
+    padding-top: 10px;
+    padding-bottom: 10px;  
+}
+.top{
+    background-color: rgb(66,133,244);
+    color: white;
+    margin-right: 5px;
+}
